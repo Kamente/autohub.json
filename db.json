@@ -1,74 +1,52 @@
 {
-  "users": [
+  "cars": [
     {
       "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "brand": "Toyota",
+      "type": "X Trail",
+      "picture": "./assets/xtrail.png",
+      "description": "Specs:\n\nMid-sized\nAvailable in five or seven-seat configurations\nPowered by 2.5L petrol engine\nFront wheel drive",
+      "price": "Starting $43,190"
     },
     {
       "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "brand": "Mercedes",
+      "type": "GLE",
+      "picture": "./assets/gle.png",
+      "description": "Specs:\n\nEngine: turbo-charged four-cylinder\n HorsePower:362hp\nWeight:4500Pounds\nTop Speed:130mph",
+      "price": "Starting $54,900"
     },
     {
       "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "brand": "BMW",
+      "type": "X6",
+      "picture": "./assets/x6_.png",
+      "description": "Specs:\n\nEngine:turbo-charged inline-six\nHorsePower:523hp\nWeight:4800Pounds\nTop Speed: 155mph",
+      "price": "Starting $73,900"
     },
     {
       "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "brand": "Ford",
+      "type": "Mustang",
+      "picture": "./assets/mustang.png",
+      "description": "Specs:\n\nEngine: 2.3L EcoBoost V8\n HorsePower:460hp\nWeight:3500Pounds\nTop Speed:155mph",
+      "price": "Starting $62,100"
     },
     {
       "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "brand": "Dodge",
+      "type": "Challenger",
+      "picture": "./assets/challenger.png",
+      "description": "Specs:\n\nEngine: 3.5L super-charged Hemi V8\n HorsePower:797hp\nWeight:3640Pounds\nTop Speed:168mph",
+      "price": "Starting $68,545"
     },
     {
       "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
-    },
-    {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
-    },
-    {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "brand": "Porsche",
+      "type": "Panamera",
+      "picture": "./assets/panamera.png",
+      "description": "Specs:\n\nEngine: 2.9L twin turbo-charged V6\n HorsePower:330hp\nWeight:4200Pounds\nTop Speed:180mph",
+      "price": "Starting $92,400"
     }
   ]
 }
